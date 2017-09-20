@@ -1,5 +1,7 @@
 import * as React from "react";
 import {observer} from "mobx-react";
+import {observable} from "mobx";
+import {NavLink} from "react-router-dom";
 
 let A = {
     letter: 'А',
@@ -205,10 +207,15 @@ let Letters = [A, B, W, G, D, JE, JO, J, Z, I, JI, K, L, M, N, O, P, R, S, T, U,
 @observer
 export class Screen extends React.Component<{}, {}> {
 
+    @observable audio: any;
     play = (sound: string) => {
-       
-        let audio = new Audio(`/resources/audio/${sound}.mp3`);
-        audio.play();
+        if (this.audio) {
+            this.audio.pause();
+            this.audio.currentTime = 0;
+        }
+        let newAudio = new Audio(`/resources/audio/${sound}.mp3`);
+        newAudio.play();
+        this.audio = newAudio;
     };
 
     render() {
@@ -217,8 +224,8 @@ export class Screen extends React.Component<{}, {}> {
             <div onClick={() => {
                 this.play(item.soundSrc)
             }}>
-                <span className="red">{item.letter}</span>
-                <div><img src={`../resources/images/${item.imgSrc}.jpg`}/></div>
+                <NavLink to={`/letter/${item.soundSrc}`} className={item.soglasnaya ? 'blue navlink' : 'red navlink'}>{item.letter}</NavLink>
+                <img src={`../resources/images/${item.imgSrc}.jpg`}/>
             </div>
         ));
         return (

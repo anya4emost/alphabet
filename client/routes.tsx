@@ -1,7 +1,8 @@
 import * as React from 'react';
 import {BrowserRouter, Route} from 'react-router-dom';
-import Calculator from './views/calculator';
 import {Switch} from "react-router";
+import Alphabet from "./views/alphabet";
+import {Letter} from "./views/LetterComponent";
 
 export default class Routes extends React.Component<{}, {}> {
 
@@ -9,7 +10,8 @@ export default class Routes extends React.Component<{}, {}> {
         return (
             <BrowserRouter>
                 <Switch>
-                    <Route exact path='/' component={Calculator}/>
+                    <Route path="/letter/:letter" component={Letter}/>
+                    <Route exact path="/" component={Alphabet}/>
                 </Switch>
             </BrowserRouter>
         )
