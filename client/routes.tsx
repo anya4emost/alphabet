@@ -10,8 +10,8 @@ export default class Routes extends React.Component<{}, {}> {
         return (
             <BrowserRouter>
                 <Switch>
-                    <Route path="/letter/:letter" component={Letter}/>
-                    <Route exact path="/" component={Alphabet}/>
+                    <Route path="alphabet/letter/:letter" component={Letter}/>
+                    <Route exact path="alphabet/" component={Alphabet}/>
                 </Switch>
             </BrowserRouter>
         )
