@@ -19,10 +19,7 @@
   "scripts": {
     "dev": "webpack-dev-server --hot --inline",
     "prod": "NODE_ENV=production webpack",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "githubPages":"NODE_ENV=githubPages webpack"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "main": "index.js",

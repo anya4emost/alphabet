@@ -48,7 +48,7 @@ module.exports = {
             }
         }),
         new HtmlWebpackPlugin({
-            template: './index.html',
+            template: './client/index.html',
             inject: "body"
         }),
         new CopyWebpackPlugin([
