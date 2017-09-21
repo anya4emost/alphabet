@@ -6,7 +6,7 @@ const path = require("path");
 module.exports = webpackMerge(commonConfig, {
     devtool: 'source-map',
     output: {
-        path: path.resolve(__dirname, '../docs/alphabet'),
+        path: path.resolve(__dirname, '../docs'),
         filename: '[name].js',
         publicPath: './'
     },

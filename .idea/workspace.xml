@@ -1,107 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="493d3742-f403-4601-85a5-0a4edd65d794" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/A.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/B.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/C.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/CH.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/D.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/E.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/F.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/G.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/H.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/I.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/J.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/JA.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/JE.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/JI.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/JO.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/JU.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/K.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/L.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/M.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/MJA.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/N.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/O.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/P.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/R.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/S.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/SH.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/SHJ.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/T.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/TV.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/U.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/W.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/Y.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/audio/Z.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/A.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/B.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/CH.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/D.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/E.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/F.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/G.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/H.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/I.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/J.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/JA.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/JE.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/JI.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/JO.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/JU.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/K.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/M.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/N.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/O.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/P.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/R.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/S.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/SH.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/SHJ.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/T.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/U.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/W.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/Z.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/arrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/avtomobil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/buldozer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/cheln.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/e-mobil.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/eraz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/evakuator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/fary.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/fura.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/gruzovik.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/hlebovoz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/istrebitel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/jahta.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/jeep.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/jiguli.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/junga.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/korabl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/limuzin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/motozikl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/nomer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/ob'ezd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/omnibus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/poezd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/raketa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/rul'.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/samolet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/schetka.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/shofer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/traktor.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/tramvay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/uprjagka.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/velosiped.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/zementovoz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/znak.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/resources/images/С.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/alphabet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/main.js" afterPath="$PROJECT_DIR$/docs/alphabet/main.js" />
+    <list default="true" id="493d3742-f403-4601-85a5-0a4edd65d794" name="Default" comment="-alphabet">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/alphabet/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/alphabet/main.js" afterPath="$PROJECT_DIR$/docs/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/githubPages.js" afterPath="$PROJECT_DIR$/webpack/githubPages.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,7 +116,7 @@
                 <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="120">
-                      <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+                      <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
                       <folding>
                         <element signature="e#0#30#0" expanded="true" />
                       </folding>
@@ -367,12 +271,6 @@
             <path>
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
               <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webpack" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -457,7 +355,7 @@
       <workItem from="1504784131688" duration="5495000" />
       <workItem from="1504875263259" duration="26711000" />
       <workItem from="1505367327086" duration="3236000" />
-      <workItem from="1505892421396" duration="19875000" />
+      <workItem from="1505892421396" duration="20068000" />
     </task>
     <task id="LOCAL-00001" summary="sound + transition to pictures">
       <created>1505914400358</created>
@@ -522,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505987749969</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="alphabet/">
+      <created>1505987904558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1505987904558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55317000" />
+    <option name="totallyTimeSpent" value="55510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -968,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
