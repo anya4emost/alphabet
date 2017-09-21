@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="493d3742-f403-4601-85a5-0a4edd65d794" name="Default" comment="alphabet/">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/routes.tsx" afterPath="$PROJECT_DIR$/client/routes.tsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/main.js" afterPath="$PROJECT_DIR$/docs/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/githubPages.js" afterPath="$PROJECT_DIR$/webpack/githubPages.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +15,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.7545008">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.79175705">
+        <splitter split-orientation="horizontal" split-proportion="0.5195228">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file leaf-file-name="dev.js" pinned="false" current-in-tab="false">
@@ -41,11 +40,11 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="routes.tsx" pinned="false" current-in-tab="true">
+              <file leaf-file-name="routes.tsx" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/client/routes.tsx">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="165">
-                      <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                    <state relative-caret-position="180">
+                      <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="49" />
                       <folding>
                         <element signature="e#0#31#0" expanded="true" />
                       </folding>
@@ -111,11 +110,11 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="githubPages.js" pinned="false" current-in-tab="false">
+              <file leaf-file-name="githubPages.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="120">
-                      <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="36" />
+                      <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
                       <folding>
                         <element signature="e#0#30#0" expanded="true" />
                       </folding>
@@ -197,9 +196,9 @@
         <option value="$PROJECT_DIR$/webpack/common.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/webpack.config.babel.js" />
-        <option value="$PROJECT_DIR$/webpack/githubPages.js" />
         <option value="$PROJECT_DIR$/client/views/LetterComponent.tsx" />
         <option value="$PROJECT_DIR$/client/routes.tsx" />
+        <option value="$PROJECT_DIR$/webpack/githubPages.js" />
       </list>
     </option>
   </component>
@@ -266,6 +265,12 @@
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
               <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
@@ -354,7 +359,7 @@
       <workItem from="1504784131688" duration="5495000" />
       <workItem from="1504875263259" duration="26711000" />
       <workItem from="1505367327086" duration="3236000" />
-      <workItem from="1505892421396" duration="19296000" />
+      <workItem from="1505892421396" duration="19724000" />
     </task>
     <task id="LOCAL-00001" summary="sound + transition to pictures">
       <created>1505914400358</created>
@@ -405,19 +410,27 @@
       <option name="project" value="LOCAL" />
       <updated>1505987015802</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="alphabet/">
+      <created>1505987307702</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1505987307702</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54738000" />
+    <option name="totallyTimeSpent" value="55166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31934494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31934494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25335777" sideWeight="0.26766917" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -738,14 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.babel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -838,22 +843,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
+    <entry file="file://$PROJECT_DIR$/client/routes.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="49" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/routes.tsx">
+    <entry file="file://$PROJECT_DIR$/webpack.config.babel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
