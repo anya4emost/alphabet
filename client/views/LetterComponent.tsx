@@ -8,11 +8,14 @@ export class Letter extends React.Component<Props, {}> {
     render() {
 
         return (
-            <div className="pictures"><img src={`../resources/images/${this.props.match.params.letter}.jpg`}/></div>
+            <div className="pictures">
+                <div onClick={()=>{window.location.href = '/'}}><img className="arrow" src='../resources/images/arrow.jpg'/></div>
+                <div><img src={`../resources/images/${this.props.match.params.letter}.jpg`}/></div>
+            </div>
         );
     }
 }
 
 interface Props {
-match?: any;
+    match?: any;
 }

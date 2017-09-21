@@ -223,8 +223,11 @@ export class Screen extends React.Component<{}, {}> {
         const ABC = Letters.map((item, index) => (
             <div onClick={() => {
                 this.play(item.soundSrc)
-            }}>
-                <NavLink to={`/letter/${item.soundSrc}`} className={item.soglasnaya ? 'blue navlink' : 'red navlink'}>{item.letter}</NavLink>
+            }}
+                 onDoubleClick={() => {
+                     item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = '/' : window.location.href = `/letter/${item.soundSrc}`
+                 }}>
+                <span className={item.soglasnaya ? 'blue' : 'red'}>{item.letter}</span>
                 <img src={`../resources/images/${item.imgSrc}.jpg`}/>
             </div>
         ));

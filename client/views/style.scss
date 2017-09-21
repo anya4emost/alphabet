@@ -26,8 +26,7 @@ body {
                 width: 170px;
                 height: 125px;
 
-                .navlink {
-                    text-decoration: none;
+                span {
                     align-self: flex-start;
                     font-size: 48px;
                     margin-right: 8px;
@@ -44,9 +43,14 @@ body {
     .pictures {
         display: flex;
         justify-content: center;
+        align-items: center;
 
-        img {
+        img:not(.arrow) {
             height: 100vh;
+        }
+        .arrow{
+            margin-right: 16px;
+            width: 72px;
         }
     }
 }
