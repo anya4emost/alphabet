@@ -7,7 +7,8 @@ module.exports = webpackMerge(commonConfig, {
     devtool: 'source-map',
     output: {
         path: path.resolve(__dirname, '../docs'),
-        filename: '[name].[chunkhash].js'
+        filename: '[name].[chunkhash].js',
+        publicPath: './'
     },
     plugins: [
         new webpack.optimize.UglifyJsPlugin({
