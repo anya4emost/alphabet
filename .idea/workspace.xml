@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493d3742-f403-4601-85a5-0a4edd65d794" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/alphabet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/main.js" afterPath="$PROJECT_DIR$/docs/alphabet/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/alphabet/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/alphabet/main.js" afterPath="$PROJECT_DIR$/docs/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack/githubPages.js" afterPath="$PROJECT_DIR$/webpack/githubPages.js" />
     </list>
@@ -115,8 +115,8 @@
               <file leaf-file-name="githubPages.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="315">
-                      <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+                    <state relative-caret-position="120">
+                      <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
                       <folding>
                         <element signature="e#0#30#0" expanded="true" />
                       </folding>
@@ -271,12 +271,6 @@
             <path>
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
               <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="webpack" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -361,7 +355,7 @@
       <workItem from="1504784131688" duration="5495000" />
       <workItem from="1504875263259" duration="26711000" />
       <workItem from="1505367327086" duration="3236000" />
-      <workItem from="1505892421396" duration="20222000" />
+      <workItem from="1505892421396" duration="20384000" />
     </task>
     <task id="LOCAL-00001" summary="sound + transition to pictures">
       <created>1505914400358</created>
@@ -440,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505988098298</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="+alphabet">
+      <created>1505988257628</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505988257628</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55664000" />
+    <option name="totallyTimeSpent" value="55826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -482,7 +483,8 @@
     <MESSAGE value="github pages" />
     <MESSAGE value="alphabet/" />
     <MESSAGE value="-alphabet" />
-    <option name="LAST_COMMIT_MESSAGE" value="-alphabet" />
+    <MESSAGE value="+alphabet" />
+    <option name="LAST_COMMIT_MESSAGE" value="+alphabet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -886,8 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack/githubPages.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="120">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
