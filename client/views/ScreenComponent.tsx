@@ -225,7 +225,7 @@ export class Screen extends React.Component<{}, {}> {
                 this.play(item.soundSrc)
             }}
                  onDoubleClick={() => {
-                     item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = '/' : window.location.href = `/letter/${item.soundSrc}`
+                     item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = `${routeAdd}/` : window.location.href = `${routeAdd}/letter/${item.soundSrc}`
                  }}>
                 <span className={item.soglasnaya ? 'blue' : 'red'}>{item.letter}</span>
                 <img src={`..${routeAdd}/resources/images/${item.imgSrc}.jpg`}/>
