@@ -1,7 +1,7 @@
 import * as React from "react";
 import {observer} from "mobx-react";
 import {observable} from "mobx";
-import {NavLink} from "react-router-dom";
+import {routeAdd} from "../services/constants";
 
 let A = {
     letter: 'А',
@@ -213,7 +213,7 @@ export class Screen extends React.Component<{}, {}> {
             this.audio.pause();
             this.audio.currentTime = 0;
         }
-        let newAudio = new Audio(`/resources/audio/${sound}.mp3`);
+        let newAudio = new Audio(`${routeAdd}/resources/audio/${sound}.mp3`);
         newAudio.play();
         this.audio = newAudio;
     };
@@ -228,7 +228,7 @@ export class Screen extends React.Component<{}, {}> {
                      item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = '/' : window.location.href = `/letter/${item.soundSrc}`
                  }}>
                 <span className={item.soglasnaya ? 'blue' : 'red'}>{item.letter}</span>
-                <img src={`../resources/images/${item.imgSrc}.jpg`}/>
+                <img src={`..${routeAdd}/resources/images/${item.imgSrc}.jpg`}/>
             </div>
         ));
         return (
