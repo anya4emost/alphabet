@@ -11,7 +11,7 @@ export default class Routes extends React.Component<{}, {}> {
         return (
             <BrowserRouter>
                 <Switch>
-                    <Route path={`${routeAdd}/letter/:letter`} component={Letter}/>
+                    <Route path={`${routeAdd}letter/:letter`} component={Letter}/>
                     <Route exact path={`${routeAdd}`} component={Alphabet}/>
                 </Switch>
             </BrowserRouter>

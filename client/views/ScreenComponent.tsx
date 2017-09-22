@@ -213,7 +213,7 @@ export class Screen extends React.Component<{}, {}> {
             this.audio.pause();
             this.audio.currentTime = 0;
         }
-        let newAudio = new Audio(`${routeAdd}/resources/audio/${sound}.mp3`);
+        let newAudio = new Audio(`${routeAdd}resources/audio/${sound}.mp3`);
         newAudio.play();
         this.audio = newAudio;
     };
@@ -225,10 +225,10 @@ export class Screen extends React.Component<{}, {}> {
                 this.play(item.soundSrc)
             }}
                  onDoubleClick={() => {
-                     item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = `${routeAdd}/` : window.location.href = `${routeAdd}/letter/${item.soundSrc}`
+                     item.soundSrc == "TV" || item.soundSrc == "Y" || item.soundSrc == "MJA" ? window.location.href = `${routeAdd}` : window.location.href = `${routeAdd}letter/${item.soundSrc}`
                  }}>
                 <span className={item.soglasnaya ? 'blue' : 'red'}>{item.letter}</span>
-                <img src={`..${routeAdd}/resources/images/${item.imgSrc}.jpg`}/>
+                <img src={`..${routeAdd}resources/images/${item.imgSrc}.jpg`}/>
             </div>
         ));
         return (
