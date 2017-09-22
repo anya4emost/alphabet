@@ -18,7 +18,7 @@ export class Letter extends React.Component<Props, {}> {
     render() {
         return (
             <div className="pictures">
-                <div onClick={this.back}><img className="arrow" src='../resources/images/arrow.jpg'/></div>
+                <div onClick={this.back}><img className="arrow" src={`..${routeAdd}/resources/images/arrow.jp`}/></div>
                 <div><img src={`..${routeAdd}/resources/images/${this.props.match.params.letter}.jpg`}/></div>
             </div>
         );
