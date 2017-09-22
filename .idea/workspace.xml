@@ -2,9 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493d3742-f403-4601-85a5-0a4edd65d794" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/B.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/CH.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/D.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/E.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/F.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/G.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/H.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/I.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/J.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/JA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/JE.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/JI.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/JO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/JU.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/K.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/M.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/N.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/O.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/P.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/R.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/S.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/SH.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/SHJ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/T.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/U.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/W.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/Z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/arrow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/avtomobil.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/buldozer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/cheln.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/e-mobil.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/eraz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/evakuator.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/fary.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/fura.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/gruzovik.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/hlebovoz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/istrebitel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/jahta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/jeep.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/jiguli.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/junga.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/korabl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/limuzin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/motozikl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/nomer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/ob'ezd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/omnibus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/poezd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/raketa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/rul'.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/samolet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/schetka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/shofer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/traktor.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/tramvay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/uprjagka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/velosiped.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/zementovoz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/znak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/resources/images/С.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/views/LetterComponent.tsx" afterPath="$PROJECT_DIR$/client/views/LetterComponent.tsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -192,12 +254,38 @@
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
               <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="client" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
               <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alphabet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alphabet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -292,7 +380,7 @@
       <workItem from="1504784131688" duration="5495000" />
       <workItem from="1504875263259" duration="26711000" />
       <workItem from="1505367327086" duration="3236000" />
-      <workItem from="1505892421396" duration="22926000" />
+      <workItem from="1505892421396" duration="23034000" />
     </task>
     <task id="LOCAL-00001" summary="sound + transition to pictures">
       <created>1505914400358</created>
@@ -420,24 +508,30 @@
       <option name="project" value="LOCAL" />
       <updated>1506077099546</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="+git">
+      <created>1506077268452</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1506077268452</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58368000" />
+    <option name="totallyTimeSpent" value="58476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31934494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31934494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25335777" sideWeight="0.27669173" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25335777" sideWeight="0.72330827" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25335777" sideWeight="0.72330827" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
